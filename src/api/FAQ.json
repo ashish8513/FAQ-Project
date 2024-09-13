@@ -1,0 +1,53 @@
+ [
+    {
+      "id":1,
+      "question": "What is Coursify?",
+      "answer": "Coursify is a Learning Management System (LMS) designed to help educators and learners manage, deliver, and track online learning efficiently."
+    },
+    {
+      "id":2,
+      "question": "How do I sign up for a course?",
+      "answer": "To sign up for a course, you need to create an account, log in, and browse the course catalog. Once you find a course, click 'Enroll' to join."
+    },
+    {
+      "id":3,
+      "question": "What payment methods are available?",
+      "answer": "We accept payments via credit cards, debit cards, and Razorpay . You can choose your preferred payment method during the checkout process."
+    },
+    {
+      "id":4,
+      "question": "Can I access my courses offline?",
+      "answer": "Currently, Coursify does not support offline access. However, you can download course materials, such as PDFs and videos, for offline use."
+    },
+    {
+      "id":5,
+      "question": "How do I reset my password?",
+      "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page. You'll receive an email with instructions to create a new password."
+    },
+    {
+      "id":6,
+      "question": "What is the refund policy?",
+      "answer": "We offer a 7-day refund policy for any course purchased. If you're not satisfied with the course, you can request a refund within 7 days of purchase."
+    },
+    {
+      "id":7,
+      "question": "Can I interact with instructors and other students?",
+      "answer": "Yes, Coursify offers discussion forums, live Q&A sessions, and group projects to foster interaction between instructors and students."
+    },
+    {
+      "id":8,
+      "question": "Is there a mobile app for Coursify?",
+      "answer": "Yes, we have a mobile app available for both iOS and Android devices, allowing you to learn on the go."
+    },
+    {
+      "id":9,
+      "question": "How do I track my learning progress?",
+      "answer": "Your learning progress is tracked automatically. You can view your progress, completed lessons, and pending assignments on your dashboard."
+    },
+    {
+      "id":10,
+      "question": "How do I contact support?",
+      "answer": "You can contact our support team by emailing support@coursify.com or using the 'Contact Us' form on our website. We are available 24/7."
+    }
+  ]
+
